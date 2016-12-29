@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<title>Assignment</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+	<script type="text/javascript">
+		angular.module('app',[]);
+		angular.module('app').controller("Maincontroller",function($scope){
+			$scope.SomeText="Hello World";
+		});
+	</script>
+	</head>
+	<body ng-app="app" ng-controller="Maincontroller">
+		<h1>{{SomeText}}</h1>
+	</body>
