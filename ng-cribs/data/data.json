@@ -1,0 +1,38 @@
+[
+     	{
+     		"type":"house",
+		"price":200000,
+		"details":{
+		"address":"11 moran",
+		"description":"nice location."
+	    },
+	     "image":"crib-1"
+},
+	{
+	"type":"condo",
+		"price":500000,
+		"details":{
+		"address":"jennala dr",
+		"description":"in texas."
+         },
+         "image":"crib-2"
+     },
+     {
+     		"type":"house",
+		"price":300000,
+		"details":{
+		"address":"6 mcknney",
+		"description":"nice location."
+	    },
+	     "image":"crib-3"
+},
+	{
+	"type":"condo",
+		"price":800000,
+		"details":{
+			"address":"2 main st",
+		"description":"in newton."
+         },
+         "image":"crib-4"
+     }
+     	]
